@@ -201,12 +201,6 @@ Main components
 		height: $intro-height-L;
 		margin-top: 0;
 
-		.cd-intro-background {
-			/* origin for the scale transformation */
-			@include transform-origin(50% 100%);
-			@include backface-visibility(hidden);
-		}
-
 		h1 {
 			@include font-size(32px);
 		}

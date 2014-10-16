@@ -212,16 +212,6 @@ Main components
     height: 500px;
     margin-top: 0;
   }
-  #cd-intro .cd-intro-background {
-    /* origin for the scale transformation */
-    -webkit-transform-origin: 50% 100%;
-    -moz-transform-origin: 50% 100%;
-    -ms-transform-origin: 50% 100%;
-    -o-transform-origin: 50% 100%;
-    transform-origin: 50% 100%;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-  }
   #cd-intro h1 {
     font-size: 32px;
     font-size: 2rem;
